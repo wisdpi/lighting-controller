@@ -1,7 +1,7 @@
 {
   "packages": [
       {
-        "name": "WisdPi Lighting Controller",
+        "name": "wisdpi-lightingcontroller",
         "maintainer": "WisdPi",
         "websiteURL": "http://www.wisdpi.com/",
         "email": "admin@wisdpi.com",
