@@ -5,14 +5,15 @@
         "maintainer": "WisdPi",
         "websiteURL": "http://www.wisdpi.com/",
         "email": "admin@wisdpi.com",
-        "help": {
-                "online": "https://github.com/wisdpi/lighting-controller"
-        },
         "platforms": [
             {
               "name": "WisdPi Lighting Controller",
-              "architecture": "wisdpi",
+              "architecture": "samd",
               "version": "1.0.0",
+              "category": "Contributed",
+              "help": {
+                "online": "https://github.com/wisdpi/lighting-controller"
+              },
               "url": "https://github.com/wisdpi/lighting-controller/releases/download/v1.0.0/lighting-controller-v1.0.0.zip",
               "archiveFileName": "lighting-controller-v1.0.0.zip",
               "size": "175176",
