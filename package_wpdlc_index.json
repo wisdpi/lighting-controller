@@ -19,9 +19,10 @@
               "size": "174617",
               "checksum": "SHA-256:A0645042BDF111C5CD1A6388B547A3735EC45E2F1D1C1F44E3E1E457FA363DE8"
             }
-        
-            ]
-        }
+        ],
+        "tools": []
+      }
+  ]
 }
 
 
