@@ -1,18 +1,23 @@
 {
     "name": "framework-wisdpidlc",
     "maintainer": "WisdPi",
-    "architecture": "wisdpi",
     "websiteURL": "http://www.wisdpi.com",
-    "version": "1.0.0",
-    "description": "Arduino Wiring-based Framework (WisdPi Dynamiclighting Controller)",
-    "keywords": [
-      "framework",
-      "arduino",
-      "wisdpi",
-      "dynamiclighting"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wisdpi/lighting-controller"
-    }
+    "platforms": [
+        {
+          "category": "WP-DLC01",
+          "name": "WisdPi Lighting Controller",
+          "url": "https://github.com/wisdpi/lighting-controller/releases/download/v1.0.0/lighting-controller-1.0.0.zip",
+          "version": "1.0.0",
+          "architecture": "wisdpi",
+          "archiveFileName": "lighting-controller-1.0.0.zip",
+          "boards": [
+            {
+              "name": "WP-DLC01"
+            }
+          ],
+          "size": "174617",
+          "checksum": "SHA-256:A0645042BDF111C5CD1A6388B547A3735EC45E2F1D1C1F44E3E1E457FA363DE8"
+        }
+    
+    ]
 }
