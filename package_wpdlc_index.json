@@ -1,20 +1,17 @@
 {
-    "name": "WisdPi DLC",
+    "name": "framework- wisdpidlc",
     "maintainer": "WisdPi",
     "websiteURL": "http://www.wisdpi.com",
     "version": "1.0.0",
-    "description": "Arduino Wiring-based Framework (WisdPi Lighting Strip)",
+    "description": "Arduino Wiring-based Framework (WisdPi Dynamiclighting Controller)",
     "keywords": [
       "framework",
       "arduino",
-      "cortex-m0plus",
-      "WisdPi",
-      "WP-DLC01",
-      "win11",
+      "wisdpi",
       "dynamiclighting"
     ],
     "repository": {
       "type": "git",
       "url": "https://github.com/wisdpi/lighting-controller"
     }
-  }
+}
