@@ -16,8 +16,8 @@
               },
               "url": "https://github.com/wisdpi/lighting-controller/releases/download/v1.0.0/lighting-controller-1.0.0.zip",
               "archiveFileName": "lighting-controller-1.0.0.zip",
-              "size": "174617",
-              "checksum": "SHA-256:A0645042BDF111C5CD1A6388B547A3735EC45E2F1D1C1F44E3E1E457FA363DE8"
+              "size": "175176",
+              "checksum": "SHA-256:324543BF679C113852008D7CE640744BD84AB677EAAA2DC43DEE2005AD5F8F72"
               "boards": [
                 {
                   "name": "WP-DLC01"
