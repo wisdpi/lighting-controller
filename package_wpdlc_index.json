@@ -17,8 +17,8 @@
               "help": {
                 "online": "https://github.com/wisdpi/lighting-controller"
               },
-              "url": "https://github.com/wisdpi/lighting-controller/releases/download/v1.0.0/lighting-controller-v1.0.0.zip",
-              "archiveFileName": "lighting-controller-v1.0.0.zip",
+              "url": "https://github.com/wisdpi/lighting-controller/releases/download/v1.0.0/lighting-controller-1.0.0.zip",
+              "archiveFileName": "lighting-controller-1.0.0.zip",
               "size": "175176",
               "checksum": "SHA-256:324543BF679C113852008D7CE640744BD84AB677EAAA2DC43DEE2005AD5F8F72",
               "boards": [
@@ -27,27 +27,37 @@
                 }
               ],
               "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "arm-none-eabi-gcc",
-                            "version": "4.8.3-2014q1"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "bossac",
-                            "version": "1.5-arduino"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "openocd",
-                            "version": "0.9.0-arduino"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "CMSIS",
-                            "version": "4.0.0-atmel"
-                        }
-                    ]
+	            {
+	              "packager": "arduino",
+	              "name": "arm-none-eabi-gcc",
+	              "version": "4.8.3-2014q1"
+	            },
+	            {
+	              "packager": "arduino",
+	              "name": "bossac",
+	              "version": "1.7.0"
+	            },
+	            {
+	              "packager": "arduino",
+	              "name": "openocd",
+	              "version": "0.9.0-arduino6-static"
+	            },
+	            {
+	              "packager": "arduino",
+	              "name": "CMSIS",
+	              "version": "4.5.0"
+	            },
+	            {
+	              "packager": "arduino",
+	              "name": "CMSIS-Atmel",
+	              "version": "1.1.0"
+	            },
+	            {
+	              "packager": "arduino",
+	              "name": "arduinoOTA",
+	              "version": "1.2.0"
+	            }
+          	]
             }
         ],
         
