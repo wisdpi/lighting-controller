@@ -1,6 +1,7 @@
 {
     "name": "framework-wisdpidlc",
     "maintainer": "WisdPi",
+    "architecture": "wisdpi",
     "websiteURL": "http://www.wisdpi.com",
     "version": "1.0.0",
     "description": "Arduino Wiring-based Framework (WisdPi Dynamiclighting Controller)",
